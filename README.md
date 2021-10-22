@@ -3,6 +3,10 @@
     <a href="https://mcosta21.github.io/netflix-clone-reactjs/"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/logo-netflix-clone.png?raw=true" alt="Logo" width="210"></a>
 </p>
 <p align="center">
+
+Uploading NETFLIX em REACTJS - Google Chrome 2021-10-22 03-12-52.mp4…
+
+
     <a href="https://mcosta21.github.io/netflix-clone-reactjs/"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/netflix-gif.gif?raw=true" alt="Banner" width="700"></a>
 </p>
 
