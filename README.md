@@ -4,12 +4,9 @@
 </p>
 <p align="center">
 
-
-
-https://user-images.githubusercontent.com/67518341/138405005-db137128-1237-4d4c-98e9-83d6fa59ac61.mp4
-
-
-    
+<a href="https://user-images.githubusercontent.com/67518341/138405005-db137128-1237-4d4c-98e9-83d6fa59ac61.mp4" alt="Banner" width="700"></a>
+</p>
+   <p align="center">
     Clone da homepage da Netflix utilizando React JS.
     <br />
     <br />
