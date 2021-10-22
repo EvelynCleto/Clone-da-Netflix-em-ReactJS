@@ -4,13 +4,12 @@
 </p>
 <p align="center">
 
-Uploading NETFLIX em REACTJS - Google Chrome 2021-10-22 03-12-52.mp4…
 
 
-    <a href="https://mcosta21.github.io/netflix-clone-reactjs/"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/netflix-gif.gif?raw=true" alt="Banner" width="700"></a>
-</p>
+https://user-images.githubusercontent.com/67518341/138405005-db137128-1237-4d4c-98e9-83d6fa59ac61.mp4
 
-<p align="center">
+
+    
     Clone da homepage da Netflix utilizando React JS.
     <br />
     <br />
