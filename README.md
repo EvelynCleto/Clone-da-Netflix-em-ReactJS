@@ -13,7 +13,7 @@
 <a href="https://mcosta21.github.io/netflix-clone-reactjs/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-gitpages.png?raw=true" alt="React JS" width="140"></a>  
 </p>
 
-## Tecnologias
+## Technologies
 Basically, this project was developed based on the following technologies:
 
 <p align="center">
