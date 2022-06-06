@@ -23,7 +23,7 @@ Basically, this project was developed based on the following technologies:
   &nbsp&nbsp
 </p>
 
-## 💻 Sobre o projeto
+## 💻 About the project
 
 Recreate the [Netflix](https://www.netflix.com/) interface as a way of learning and training skills using TypeScript, React and CSS. During the construction of this project this [video](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda) was used as support material.
 
